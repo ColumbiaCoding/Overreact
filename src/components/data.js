@@ -6,12 +6,12 @@
 // image
 // link to deployment
 // github
-import Project1 from '../images/project1.png';
-import project2 from '../images/project2.png';
-import project3 from '../images/project3.png';
-import project4 from '../images/project4.png';
-import project5 from '../images/project5.png';
-import project6 from '../images/project6.png';
+import Project1 from '../assets/images/Project1.png';
+// import project2 from '../images/project1.png';
+// import project3 from '../images/project1.png';
+// import project4 from '../images/project1.png';
+// import project5 from '../images/project1.png';
+// import project6 from '../images/project1.png';
 
 
 export const projects =[
